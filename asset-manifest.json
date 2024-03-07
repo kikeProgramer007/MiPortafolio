@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.ea2d2287.css",
+    "main.js": "/cv/static/js/main.d7d1514d.js",
+    "static/media/portfolio14.png": "/cv/static/media/portfolio14.79f249b0e12be6c7b973.png",
+    "static/media/me.png": "/cv/static/media/me.ab6a0de76f291d32bb57.png",
+    "static/media/portfolio7.png": "/cv/static/media/portfolio7.431704f80134430d56d0.png",
+    "static/media/portfolio3.PNG": "/cv/static/media/portfolio3.bfe9440d37b09cee1b12.PNG",
+    "static/media/portfolio8.png": "/cv/static/media/portfolio8.5000e92d3306266cc3e8.png",
+    "static/media/portfolio6.png": "/cv/static/media/portfolio6.da9d464d8a8a2b9f596e.png",
+    "static/media/portfolio12.png": "/cv/static/media/portfolio12.1d1b4e5980b4a44c557e.png",
+    "static/media/portfolio13.png": "/cv/static/media/portfolio13.5afabb243fe47ff61d07.png",
+    "static/media/portfolio4.PNG": "/cv/static/media/portfolio4.29fc50a2d161dedc5928.PNG",
+    "static/media/avatar3.jpg": "/cv/static/media/avatar3.3131a12863bc20d2d4f6.jpg",
+    "static/media/cv.pdf": "/cv/static/media/cv.7c1945dbc82441a4a144.pdf",
+    "static/media/enrique.jpg": "/cv/static/media/enrique.7aa13efba93862163702.jpg",
+    "static/media/avatar4.jpg": "/cv/static/media/avatar4.aef02d3ee1165bd3d22b.jpg",
+    "static/media/portfolio1.PNG": "/cv/static/media/portfolio1.06c6c9fdedf65f5c455a.PNG",
+    "static/media/avatar2.jpg": "/cv/static/media/avatar2.abe1ec740cb3cf127ea2.jpg",
+    "static/media/portfolio5.png": "/cv/static/media/portfolio5.05cf94dc79064a0d82a5.png",
+    "static/media/portfolio10.png": "/cv/static/media/portfolio10.fc87571d74c3cc485440.png",
+    "static/media/portfolio2.PNG": "/cv/static/media/portfolio2.e01ffeca78c2f653c55a.PNG",
+    "static/media/portfolio11.png": "/cv/static/media/portfolio11.bb6812e1583d91b68bc0.png",
+    "static/media/portfolio9.png": "/cv/static/media/portfolio9.e9309423b154b545b20d.png",
+    "static/media/avatar1.jpg": "/cv/static/media/avatar1.9028af1c2e794866dd49.jpg",
+    "static/media/portfolio15.png": "/cv/static/media/portfolio15.7a07b2e2843b7ec4cd75.png",
+    "index.html": "/cv/index.html",
+    "main.ea2d2287.css.map": "/cv/static/css/main.ea2d2287.css.map",
+    "main.d7d1514d.js.map": "/cv/static/js/main.d7d1514d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea2d2287.css",
+    "static/js/main.d7d1514d.js"
+  ]
+}
